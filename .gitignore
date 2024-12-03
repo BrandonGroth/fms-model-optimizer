@@ -17,6 +17,9 @@ qcfg.json
 models
 configs
 
+# Log file
+fms_mo.log
+
 # IDEs
 .vscode/
 .idea/
