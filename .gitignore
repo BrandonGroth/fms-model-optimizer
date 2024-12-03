@@ -13,6 +13,9 @@ durations/*
 coverage*.xml
 qcfg.json
 
+# Log file
+fms_mo.log
+
 # IDEs
 .vscode/
 .idea/
